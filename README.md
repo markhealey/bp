@@ -1,4 +1,3 @@
-bp
-==
+# OpenF2.org Redesign
 
-boilerplate
+Out with the old, in with the new.
